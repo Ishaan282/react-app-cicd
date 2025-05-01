@@ -10,7 +10,7 @@ on:
 
 jobs:
   build:
-    runs-on: self-hosted  # Make sure your self-hosted runner is correctly configured
+    runs-on: ubuntu-latest # Make sure your self-hosted runner is correctly configured
 
     strategy:
       matrix:
