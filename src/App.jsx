@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <h2>react app implement using Vite pipeline </h2>
-      <h3>with github actions</h3>
+      <h3>with github actions...</h3>
       <h1>created by Ishaan</h1>
       <p></p>
     </>
